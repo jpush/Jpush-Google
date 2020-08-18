@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DevInfor>
+
+    <!-- 如果不需要支持某平台，可缺省该平台的配置-->
+
+
+    <Wechat
+        AppId="cccc"
+        AppSecret="dddd"/>
+
+
+</DevInfor>

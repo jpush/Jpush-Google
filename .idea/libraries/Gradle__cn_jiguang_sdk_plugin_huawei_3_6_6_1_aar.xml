@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: cn.jiguang.sdk.plugin:huawei:3.6.6.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/huawei-3.6.6.1.aar/e0961f1a9447f7b1d7e263c2bdc7cab1/jars/libs/jpush-android-plugin-huawei-v3.6.6.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/huawei-3.6.6.1.aar/e0961f1a9447f7b1d7e263c2bdc7cab1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/huawei-3.6.6.1.aar/e0961f1a9447f7b1d7e263c2bdc7cab1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cn.jiguang.sdk.plugin/huawei/3.6.6.1/c669a24514b410e924f45cd70ba9d9220563ada8/huawei-3.6.6.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

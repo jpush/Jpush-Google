@@ -1,0 +1,1 @@
+[{"outputType":{"type":"MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":358,"versionName":"3.5.8","enabled":true,"outputFile":"demo-release-unsigned.apk","fullName":"release","baseName":"release"},"path":"AndroidManifest.xml","properties":{"packageId":"com.tencent.mm","split":"","minSdkVersion":"17"}}]

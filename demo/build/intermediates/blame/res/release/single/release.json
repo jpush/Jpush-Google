@@ -1,0 +1,590 @@
+[
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_alipay.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_alipay.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_youtube.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_youtube.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_telegram.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_telegram.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_exception_icon.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/ShareSDK-3.7.9.aar/cb47257755cc71f76772b9f5582a57f4/res/drawable-xhdpi-v4/ssdk_exception_icon.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_bluetooth.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_bluetooth.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xxhdpi-v4_umcsdk_sms_normal.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/jverification-2.6.3.aar/18de9158aeda786591b86f92593b3467/res/drawable-xxhdpi-v4/umcsdk_sms_normal.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_foursquare.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_foursquare.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/demo/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/demo/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/demo/build/generated/res/pngs/release/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/demo/build/generated/res/pngs/release/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_douyin.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_douyin.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable_mobcommon_authorize_bottom_right_round_btn.xml.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/ShareSDK-3.7.9.aar/cb47257755cc71f76772b9f5582a57f4/res/drawable/mobcommon_authorize_bottom_right_round_btn.xml"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_googleplus.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_googleplus.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_country_sharesdk_icon.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/ShareSDK-3.7.9.aar/cb47257755cc71f76772b9f5582a57f4/res/drawable-xhdpi-v4/ssdk_country_sharesdk_icon.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_qzone.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_qzone.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_email.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_email.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable_ssdk_oks_classic_progressbar.xml.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable/ssdk_oks_classic_progressbar.xml"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_instapaper.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_instapaper.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_yixinmoments.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_yixinmoments.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/layout_main.xml.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/demo/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_mobile_logo.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/ShareSDK-3.7.9.aar/cb47257755cc71f76772b9f5582a57f4/res/drawable-xhdpi-v4/ssdk_mobile_logo.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_wechatmoments.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_wechatmoments.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable_ssdk_oks_classic_platform_cell_back.xml.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable/ssdk_oks_classic_platform_cell_back.xml"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_check_default.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_check_default.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xxhdpi-v4_umcsdk_toast_bg.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/jverification-2.6.3.aar/18de9158aeda786591b86f92593b3467/res/drawable-xxhdpi-v4/umcsdk_toast_bg.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable_jverify_dialog_bg.xml.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/jverification-2.6.3.aar/18de9158aeda786591b86f92593b3467/res/drawable/jverify_dialog_bg.xml"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_meipai.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_meipai.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/layout_customer_notitfication_layout_one.xml.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/demo/src/main/res/layout/customer_notitfication_layout_one.xml"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/demo/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xxhdpi-v4_umcsdk_check_image.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/jverification-2.6.3.aar/18de9158aeda786591b86f92593b3467/res/drawable-xxhdpi-v4/umcsdk_check_image.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_wechat.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_wechat.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xxhdpi-v4_umcsdk_login_btn_unable.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/jverification-2.6.3.aar/18de9158aeda786591b86f92593b3467/res/drawable-xxhdpi-v4/umcsdk_login_btn_unable.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/demo/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable_mobcommon_authorize_bottom_left_round_btn.xml.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/ShareSDK-3.7.9.aar/cb47257755cc71f76772b9f5582a57f4/res/drawable/mobcommon_authorize_bottom_left_round_btn.xml"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_linkedin.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_linkedin.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/layout_customer_notitfication_layout.xml.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/demo/src/main/res/layout/customer_notitfication_layout.xml"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/layout_push_set_dialog.xml.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/demo/src/main/res/layout/push_set_dialog.xml"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_youdao.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_youdao.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-hdpi_tiledstripes.xml.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/demo/src/main/res/drawable-hdpi/tiledstripes.xml"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_auth_title_back.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/ShareSDK-3.7.9.aar/cb47257755cc71f76772b9f5582a57f4/res/drawable-xhdpi-v4/ssdk_auth_title_back.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/demo/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-hdpi_stripes.png.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/demo/src/main/res/drawable-hdpi/stripes.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_whatsapp.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_whatsapp.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_accountkit.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_accountkit.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xxhdpi-v4_umcsdk_load_complete_w.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/jverification-2.6.3.aar/18de9158aeda786591b86f92593b3467/res/drawable-xxhdpi-v4/umcsdk_load_complete_w.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/layout_mob_authorize_dialog.xml.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/ShareSDK-3.7.9.aar/cb47257755cc71f76772b9f5582a57f4/res/layout/mob_authorize_dialog.xml"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_country_search_icon.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/ShareSDK-3.7.9.aar/cb47257755cc71f76772b9f5582a57f4/res/drawable-xhdpi-v4/ssdk_country_search_icon.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_facebookmessenger.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_facebookmessenger.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_line.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_line.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_douban.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_douban.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable_umcsdk_get_smscode_btn_bg.xml.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/jverification-2.6.3.aar/18de9158aeda786591b86f92593b3467/res/drawable/umcsdk_get_smscode_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/demo/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/demo/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/demo/build/generated/res/pngs/release/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/layout-v21_push_notification.xml.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/demo/src/main/res/layout-v21/push_notification.xml"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/mipmap-anydpi-v26_ic_launcher_foreground.png.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/demo/src/main/res/mipmap-anydpi-v26/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/layout_jpush_webview_layout.xml.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/demo/src/main/res/layout/jpush_webview_layout.xml"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_cmcc.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_cmcc.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xxhdpi-v4_umcsdk_login_btn_press.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/jverification-2.6.3.aar/18de9158aeda786591b86f92593b3467/res/drawable-xxhdpi-v4/umcsdk_login_btn_press.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_hwaccount.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_hwaccount.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_left_back.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/ShareSDK-3.7.9.aar/cb47257755cc71f76772b9f5582a57f4/res/drawable-xhdpi-v4/ssdk_left_back.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xxhdpi-v4_umcsdk_return_bg.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/jverification-2.6.3.aar/18de9158aeda786591b86f92593b3467/res/drawable-xxhdpi-v4/umcsdk_return_bg.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/demo/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_tencentweibo.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_tencentweibo.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_kakaostory.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_kakaostory.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_laiwang.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_laiwang.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/demo/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xxhdpi-v4_umcsdk_sms_unable.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/jverification-2.6.3.aar/18de9158aeda786591b86f92593b3467/res/drawable-xxhdpi-v4/umcsdk_sms_unable.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/demo/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_tumblr.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_tumblr.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/demo/build/generated/res/pngs/release/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_country_back_arrow.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/ShareSDK-3.7.9.aar/cb47257755cc71f76772b9f5582a57f4/res/drawable-xhdpi-v4/ssdk_country_back_arrow.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xxhdpi-v4_umcsdk_load_dot_white.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/jverification-2.6.3.aar/18de9158aeda786591b86f92593b3467/res/drawable-xxhdpi-v4/umcsdk_load_dot_white.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_renren.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_renren.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_alipaymoments.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_alipaymoments.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_reddit.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_reddit.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xxhdpi-v4_umcsdk_login_btn_normal.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/jverification-2.6.3.aar/18de9158aeda786591b86f92593b3467/res/drawable-xxhdpi-v4/umcsdk_login_btn_normal.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-hdpi_corners_bg.xml.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/demo/src/main/res/drawable-hdpi/corners_bg.xml"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_sinaweibo.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_sinaweibo.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_wechatfavorite.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_wechatfavorite.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_logo.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/ShareSDK-3.7.9.aar/cb47257755cc71f76772b9f5582a57f4/res/drawable-xhdpi-v4/ssdk_logo.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_country_clear_search.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/ShareSDK-3.7.9.aar/cb47257755cc71f76772b9f5582a57f4/res/drawable-xhdpi-v4/ssdk_country_clear_search.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/layout_push_notification.xml.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/demo/src/main/res/layout/push_notification.xml"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-hdpi_jpush_notification_icon.png.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/demo/src/main/res/drawable-hdpi/jpush_notification_icon.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-ldpi_ic_launcher.png.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/demo/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable_umcsdk_login_btn_bg.xml.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/jverification-2.6.3.aar/18de9158aeda786591b86f92593b3467/res/drawable/umcsdk_login_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_xmaccount.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_xmaccount.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_checkboxed.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/ShareSDK-3.7.9.aar/cb47257755cc71f76772b9f5582a57f4/res/drawable-xhdpi-v4/ssdk_checkboxed.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_identify_icon.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/ShareSDK-3.7.9.aar/cb47257755cc71f76772b9f5582a57f4/res/drawable-xhdpi-v4/ssdk_identify_icon.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_input_bg_focus.9.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/ShareSDK-3.7.9.aar/cb47257755cc71f76772b9f5582a57f4/res/drawable-xhdpi-v4/ssdk_input_bg_focus.9.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_yixin.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_yixin.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/demo/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable_mobcommon_authorize_dialog_bg.xml.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/ShareSDK-3.7.9.aar/cb47257755cc71f76772b9f5582a57f4/res/drawable/mobcommon_authorize_dialog_bg.xml"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_littleredbook.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_littleredbook.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_laiwangmoments.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_laiwangmoments.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_kaixin.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_kaixin.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-hdpi_bottom_bg.9.png.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/demo/src/main/res/drawable-hdpi/bottom_bg.9.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_instagram.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_instagram.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-hdpi_jpush_ic_richpush_actionbar_divider.png.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/demo/src/main/res/drawable-hdpi/jpush_ic_richpush_actionbar_divider.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_snapchat.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_snapchat.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xxhdpi-v4_umcsdk_exception_icon.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/jverification-2.6.3.aar/18de9158aeda786591b86f92593b3467/res/drawable-xxhdpi-v4/umcsdk_exception_icon.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_dingding.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_dingding.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-hdpi_richpush_btn_selector.xml.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/demo/src/main/res/drawable-hdpi/richpush_btn_selector.xml"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-hdpi_jpush_ic_richpush_actionbar_back.png.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/demo/src/main/res/drawable-hdpi/jpush_ic_richpush_actionbar_back.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/layout_jpush_popwin_layout.xml.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/demo/src/main/res/layout/jpush_popwin_layout.xml"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/demo/build/generated/res/pngs/release/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_flickr.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_flickr.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_qq.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_qq.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_pinterest.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_pinterest.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_check_checked.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_check_checked.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_vkontakte.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_vkontakte.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_kuaishou.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_kuaishou.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xxhdpi-v4_umcsdk_sms_press.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/jverification-2.6.3.aar/18de9158aeda786591b86f92593b3467/res/drawable-xxhdpi-v4/umcsdk_sms_press.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_country_cl_divider.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/ShareSDK-3.7.9.aar/cb47257755cc71f76772b9f5582a57f4/res/drawable-xhdpi-v4/ssdk_country_cl_divider.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_telecom.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_telecom.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/layout_set_push_time.xml.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/demo/src/main/res/layout/set_push_time.xml"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xxhdpi-v4_umcsdk_shape_input.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/jverification-2.6.3.aar/18de9158aeda786591b86f92593b3467/res/drawable-xxhdpi-v4/umcsdk_shape_input.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_weibo_empty_failed.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/ShareSDK-3.7.9.aar/cb47257755cc71f76772b9f5582a57f4/res/drawable-xhdpi-v4/ssdk_weibo_empty_failed.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_load_dot_white.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/ShareSDK-3.7.9.aar/cb47257755cc71f76772b9f5582a57f4/res/drawable-xhdpi-v4/ssdk_load_dot_white.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_title_div.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/ShareSDK-3.7.9.aar/cb47257755cc71f76772b9f5582a57f4/res/drawable-xhdpi-v4/ssdk_title_div.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_evernote.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_evernote.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_facebook.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_facebook.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_watermelonvideo.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_watermelonvideo.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-v24_jpush_notification_icon.png.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/demo/src/main/res/drawable-v24/jpush_notification_icon.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_shortmessage.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_shortmessage.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/anim_umcsdk_anim_loading.xml.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/jverification-2.6.3.aar/18de9158aeda786591b86f92593b3467/res/anim/umcsdk_anim_loading.xml"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xxhdpi-v4_umcsdk_mobile_logo.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/jverification-2.6.3.aar/18de9158aeda786591b86f92593b3467/res/drawable-xxhdpi-v4/umcsdk_mobile_logo.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_wework.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_wework.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_oasis.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_oasis.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_pocket.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_pocket.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/demo/build/generated/res/pngs/release/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-hdpi_top_bg.9.png.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/demo/src/main/res/drawable-hdpi/top_bg.9.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/demo/build/generated/res/pngs/release/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_mingdao.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_mingdao.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_back_arr.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/ShareSDK-3.7.9.aar/cb47257755cc71f76772b9f5582a57f4/res/drawable-xhdpi-v4/ssdk_back_arr.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_dropbox.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_dropbox.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_loading.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/ShareSDK-3.7.9.aar/cb47257755cc71f76772b9f5582a57f4/res/drawable-xhdpi-v4/ssdk_loading.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-hdpi_richpush_progressbar.xml.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/demo/src/main/res/drawable-hdpi/richpush_progressbar.xml"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_weibo_common_shadow_top.9.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/ShareSDK-3.7.9.aar/cb47257755cc71f76772b9f5582a57f4/res/drawable-xhdpi-v4/ssdk_weibo_common_shadow_top.9.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xxhdpi-v4_umcsdk_exception_bg.9.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/jverification-2.6.3.aar/18de9158aeda786591b86f92593b3467/res/drawable-xxhdpi-v4/umcsdk_exception_bg.9.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_kakaotalk.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_kakaotalk.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-hdpi_border_bg.9.png.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/demo/src/main/res/drawable-hdpi/border_bg.9.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xxhdpi-v4_umcsdk_uncheck_image.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/jverification-2.6.3.aar/18de9158aeda786591b86f92593b3467/res/drawable-xxhdpi-v4/umcsdk_uncheck_image.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-v24_ic_launcher_foreground.png.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/demo/src/main/res/drawable-v24/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-xhdpi-v4_ssdk_oks_classic_twitter.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-xhdpi-v4/ssdk_oks_classic_twitter.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/demo/build/intermediates/res/merged/release/drawable-hdpi-v4_ssdk_oks_ptr_ptr.png.flat",
+        "source": "/Users/shikk/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/0f6b30561aeb5989d3088ff9b2def6e4/res/drawable-hdpi-v4/ssdk_oks_ptr_ptr.png"
+    }
+]

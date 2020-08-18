@@ -1,0 +1,1 @@
+[{"outputType":{"type":"INSTANT_RUN_MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":358,"versionName":"3.5.8","enabled":true,"outputFile":"wake-test-debug.apk","fullName":"debug","baseName":"debug"},"path":"AndroidManifest.xml","properties":{"packageId":"com.shikk.test1","split":"","minSdkVersion":"17"}}]

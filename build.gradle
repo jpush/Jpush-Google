@@ -1,0 +1,32 @@
+buildscript {
+    repositories {
+        google()
+        jcenter()
+        maven {
+            //url 'https://maven.google.com',
+            url 'http://developer.huawei.com/repo/'
+        }
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.3.2'
+        classpath 'com.google.gms:google-services:4.2.0'
+        //huawei
+        classpath 'com.huawei.agconnect:agcp:1.2.1.301'
+        classpath "com.mob.sdk:MobSDK:2018.0319.1724"
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        jcenter()
+        maven {
+            //url 'https://maven.google.com',
+            url 'http://developer.huawei.com/repo/'
+        }
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}

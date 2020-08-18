@@ -1,0 +1,11 @@
+{
+	"client":{
+		"cp_id":"260086000067146482",
+		"product_id":"9105385871707943135",
+		"client_id":"222944496936027136",
+		"client_secret":"B2F54ABD6FE80F7F89932A4208CE3D03330B574A3D6C8D3071A033B9B8436552",
+		"app_id":"100978213",
+		"package_name":"cn.cloud.push"
+	},
+	"configuration_version":"1.0"
+}

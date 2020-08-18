@@ -1,0 +1,4 @@
+#Sat Aug 08 01:45:43 CST 2020
+base.0=/Users/shikk/Documents/JiGuang/example/testEnv1/build/intermediates/dex/release/mergeDexRelease/out
+path.0=classes.dex
+renamed.0=classes.dex

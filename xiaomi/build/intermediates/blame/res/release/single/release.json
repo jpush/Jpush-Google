@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/xiaomi/build/intermediates/res/merged/release/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/xiaomi/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/xiaomi/build/intermediates/res/merged/release/layout_customer_notitfication_layout_one.xml.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/xiaomi/src/main/res/layout/customer_notitfication_layout_one.xml"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/xiaomi/build/intermediates/res/merged/release/drawable-hdpi_top_bg.9.png.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/xiaomi/src/main/res/drawable-hdpi/top_bg.9.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/xiaomi/build/intermediates/res/merged/release/drawable-hdpi_corners_bg.xml.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/xiaomi/src/main/res/drawable-hdpi/corners_bg.xml"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/xiaomi/build/intermediates/res/merged/release/layout_jpush_webview_layout.xml.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/xiaomi/src/main/res/layout/jpush_webview_layout.xml"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/xiaomi/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/xiaomi/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/xiaomi/build/intermediates/res/merged/release/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/xiaomi/build/generated/res/pngs/release/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/xiaomi/build/intermediates/res/merged/release/drawable-hdpi_bottom_bg.9.png.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/xiaomi/src/main/res/drawable-hdpi/bottom_bg.9.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/xiaomi/build/intermediates/res/merged/release/layout_main.xml.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/xiaomi/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/xiaomi/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/xiaomi/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/xiaomi/build/intermediates/res/merged/release/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/xiaomi/build/generated/res/pngs/release/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/xiaomi/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/xiaomi/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/xiaomi/build/intermediates/res/merged/release/layout_set_push_time.xml.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/xiaomi/src/main/res/layout/set_push_time.xml"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/xiaomi/build/intermediates/res/merged/release/drawable-hdpi_tiledstripes.xml.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/xiaomi/src/main/res/drawable-hdpi/tiledstripes.xml"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/xiaomi/build/intermediates/res/merged/release/drawable-v24_ic_launcher_foreground.png.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/xiaomi/src/main/res/drawable-v24/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/xiaomi/build/intermediates/res/merged/release/drawable-hdpi_richpush_btn_selector.xml.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/xiaomi/src/main/res/drawable-hdpi/richpush_btn_selector.xml"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/xiaomi/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/xiaomi/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/xiaomi/build/intermediates/res/merged/release/drawable-hdpi_jpush_ic_richpush_actionbar_divider.png.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/xiaomi/src/main/res/drawable-hdpi/jpush_ic_richpush_actionbar_divider.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/xiaomi/build/intermediates/res/merged/release/drawable-v24_jpush_notification_icon.png.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/xiaomi/src/main/res/drawable-v24/jpush_notification_icon.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/xiaomi/build/intermediates/res/merged/release/layout_jpush_popwin_layout.xml.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/xiaomi/src/main/res/layout/jpush_popwin_layout.xml"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/xiaomi/build/intermediates/res/merged/release/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/xiaomi/build/generated/res/pngs/release/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/xiaomi/build/intermediates/res/merged/release/drawable-hdpi_richpush_progressbar.xml.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/xiaomi/src/main/res/drawable-hdpi/richpush_progressbar.xml"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/xiaomi/build/intermediates/res/merged/release/drawable-hdpi_border_bg.9.png.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/xiaomi/src/main/res/drawable-hdpi/border_bg.9.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/xiaomi/build/intermediates/res/merged/release/drawable-hdpi_jpush_ic_richpush_actionbar_back.png.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/xiaomi/src/main/res/drawable-hdpi/jpush_ic_richpush_actionbar_back.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/xiaomi/build/intermediates/res/merged/release/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/xiaomi/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/xiaomi/build/intermediates/res/merged/release/mipmap-anydpi-v26_ic_launcher_foreground.png.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/xiaomi/src/main/res/mipmap-anydpi-v26/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/xiaomi/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/xiaomi/build/generated/res/pngs/release/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/xiaomi/build/intermediates/res/merged/release/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/xiaomi/build/generated/res/pngs/release/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/xiaomi/build/intermediates/res/merged/release/layout_push_set_dialog.xml.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/xiaomi/src/main/res/layout/push_set_dialog.xml"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/xiaomi/build/intermediates/res/merged/release/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/xiaomi/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/xiaomi/build/intermediates/res/merged/release/drawable-hdpi_stripes.png.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/xiaomi/src/main/res/drawable-hdpi/stripes.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/xiaomi/build/intermediates/res/merged/release/layout-v21_push_notification.xml.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/xiaomi/src/main/res/layout-v21/push_notification.xml"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/xiaomi/build/intermediates/res/merged/release/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/xiaomi/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/xiaomi/build/intermediates/res/merged/release/drawable-hdpi_jpush_richpush_btn_selector.xml.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/xiaomi/src/main/res/drawable-hdpi/jpush_richpush_btn_selector.xml"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/xiaomi/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/xiaomi/build/generated/res/pngs/release/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/xiaomi/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/xiaomi/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/xiaomi/build/intermediates/res/merged/release/drawable-hdpi_jpush_notification_icon.png.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/xiaomi/src/main/res/drawable-hdpi/jpush_notification_icon.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/xiaomi/build/intermediates/res/merged/release/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/xiaomi/build/generated/res/pngs/release/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/xiaomi/build/intermediates/res/merged/release/layout_push_notification.xml.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/xiaomi/src/main/res/layout/push_notification.xml"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/xiaomi/build/intermediates/res/merged/release/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/xiaomi/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/xiaomi/build/intermediates/res/merged/release/drawable-ldpi_ic_launcher.png.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/xiaomi/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/xiaomi/build/intermediates/res/merged/release/drawable-hdpi_jpush_richpush_progressbar.xml.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/xiaomi/src/main/res/drawable-hdpi/jpush_richpush_progressbar.xml"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/xiaomi/build/intermediates/res/merged/release/layout_customer_notitfication_layout.xml.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/xiaomi/src/main/res/layout/customer_notitfication_layout.xml"
+    },
+    {
+        "merged": "/Users/shikk/Documents/JiGuang/example/xiaomi/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/shikk/Documents/JiGuang/example/xiaomi/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]
