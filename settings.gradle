@@ -1,1 +1,1 @@
-include ':demo',':xiaomi',':xiaomi-testEnv',':testEnv1','huawei','wake-test'
+include ':demo'

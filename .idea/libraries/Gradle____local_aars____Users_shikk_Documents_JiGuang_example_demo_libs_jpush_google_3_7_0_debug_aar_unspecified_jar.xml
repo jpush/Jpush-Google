@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_aars__:/Users/shikk/Documents/JiGuang/example/demo/libs/jpush-google-3.7.0-debug.aar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jpush-google-3.7.0-debug.aar/982815d6c5aa8c7ab236a9ad35109402/jars/libs/jpush-android-3.7.0-debug-b367.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jpush-google-3.7.0-debug.aar/982815d6c5aa8c7ab236a9ad35109402/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jpush-google-3.7.0-debug.aar/982815d6c5aa8c7ab236a9ad35109402/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

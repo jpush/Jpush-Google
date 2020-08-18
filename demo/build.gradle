@@ -93,6 +93,7 @@ MobSDK {
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation fileTree(dir: 'libs', include: ['*.aar'])
 //    implementation 'cn.jiguang.sdk:jpush:3.5.2'
 
 //    implementation 'cn.jiguang.sdk:jshare:1.6.0'
@@ -102,7 +103,7 @@ dependencies {
 //    implementation 'com.google.firebase:firebase-messaging:20.0.0'
 //    implementation 'com.google.firebase:firebase-core:17.0.0'
 //    implementation 'com.huawei.hms:push:4.0.2.300'
-    implementation 'cn.jiguang.sdk:jcore:2.3.8'
+//    implementation 'cn.jiguang.sdk:jcore:2.3.8'
     implementation 'cn.jiguang.sdk:jverification:2.6.3'
 //    implementation 'cn.jiguang.sdk:jpush:3.5.2'
 //    implementation fileTree(include: ['*.aar'], dir: 'libs')

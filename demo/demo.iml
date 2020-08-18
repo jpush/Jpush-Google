@@ -122,7 +122,7 @@
     <orderEntry type="jdk" jdkName="Android API 29 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Gradle: cn.sharesdk:ShareSDK-Wechat-Moments:3.7.9@jar" level="project" />
-    <orderEntry type="library" name="Gradle: com.mob:MobGuard:1.0.7@aar" level="project" />
+    <orderEntry type="library" name="Gradle: __local_aars__:/Users/shikk/Documents/JiGuang/example/demo/libs/jcore-google-2.4.2-debug.aar:unspecified@jar" level="project" />
     <orderEntry type="library" name="Gradle: cn.sharesdk:ShareSDK-Wechat:3.7.9@jar" level="project" />
     <orderEntry type="library" name="Gradle: cn.sharesdk:OneKeyShare:3.7.9@aar" level="project" />
     <orderEntry type="library" name="Gradle: __local_aars__:/Users/shikk/Documents/JiGuang/example/demo/libs/open_sdk_r8353806_lite.jar:unspecified@jar" level="project" />
@@ -130,10 +130,11 @@
     <orderEntry type="library" name="Gradle: com.mob:MobGUI:2019.0306.1850@jar" level="project" />
     <orderEntry type="library" name="Gradle: cn.sharesdk:ShareSDK-Wechat-Core:3.7.9@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.mob:SDKWrapper:2018.0801.1824@jar" level="project" />
-    <orderEntry type="library" name="Gradle: cn.jiguang.sdk:jcore:2.3.8@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.mob:MobApm:1.0.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.mob:MobCommons:2020.0806.1815@jar" level="project" />
+    <orderEntry type="library" name="Gradle: __local_aars__:/Users/shikk/Documents/JiGuang/example/demo/libs/jpush-google-3.7.0-debug.aar:unspecified@jar" level="project" />
     <orderEntry type="library" name="Gradle: cn.sharesdk:ShareSDK:3.7.9@aar" level="project" />
-    <orderEntry type="library" name="Gradle: __local_aars__:/Users/shikk/Documents/JiGuang/example/demo/libs/jpush-android-3.6.4-debug-b354.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.mob:MobGuard:1.0.8@aar" level="project" />
     <orderEntry type="library" name="Gradle: cn.jiguang.sdk:jverification:2.6.3@aar" level="project" />
   </component>
 </module>

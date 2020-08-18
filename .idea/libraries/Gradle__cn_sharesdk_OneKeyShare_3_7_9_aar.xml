@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: cn.sharesdk:OneKeyShare:3.7.9@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/7eefa991479d6ecf86bd4ec377635ffb/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/7eefa991479d6ecf86bd4ec377635ffb/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/5fb38417502c3ee031cc540929ac4ecf/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.7.9.aar/5fb38417502c3ee031cc540929ac4ecf/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

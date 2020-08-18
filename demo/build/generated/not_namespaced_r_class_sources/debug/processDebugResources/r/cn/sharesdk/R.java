@@ -42,50 +42,50 @@ public final class R {
     public static final class drawable {
         private drawable() {}
 
-        public static final int mobcommon_authorize_bottom_left_round_btn = 0x7f03000a;
-        public static final int mobcommon_authorize_bottom_right_round_btn = 0x7f03000b;
-        public static final int mobcommon_authorize_dialog_bg = 0x7f03000c;
-        public static final int ssdk_auth_title_back = 0x7f03000f;
-        public static final int ssdk_back_arr = 0x7f030010;
-        public static final int ssdk_checkboxed = 0x7f030011;
-        public static final int ssdk_country_back_arrow = 0x7f030012;
-        public static final int ssdk_country_cl_divider = 0x7f030013;
-        public static final int ssdk_country_clear_search = 0x7f030014;
-        public static final int ssdk_country_search_icon = 0x7f030015;
-        public static final int ssdk_country_sharesdk_icon = 0x7f030016;
-        public static final int ssdk_exception_icon = 0x7f030017;
-        public static final int ssdk_identify_icon = 0x7f030018;
-        public static final int ssdk_input_bg_focus = 0x7f030019;
-        public static final int ssdk_left_back = 0x7f03001a;
-        public static final int ssdk_load_dot_white = 0x7f03001b;
-        public static final int ssdk_loading = 0x7f03001c;
-        public static final int ssdk_logo = 0x7f03001d;
-        public static final int ssdk_mobile_logo = 0x7f03001e;
-        public static final int ssdk_title_div = 0x7f03005f;
-        public static final int ssdk_weibo_common_shadow_top = 0x7f030060;
-        public static final int ssdk_weibo_empty_failed = 0x7f030061;
+        public static final int mobcommon_authorize_bottom_left_round_btn = 0x7f03000f;
+        public static final int mobcommon_authorize_bottom_right_round_btn = 0x7f030010;
+        public static final int mobcommon_authorize_dialog_bg = 0x7f030011;
+        public static final int ssdk_auth_title_back = 0x7f030014;
+        public static final int ssdk_back_arr = 0x7f030015;
+        public static final int ssdk_checkboxed = 0x7f030016;
+        public static final int ssdk_country_back_arrow = 0x7f030017;
+        public static final int ssdk_country_cl_divider = 0x7f030018;
+        public static final int ssdk_country_clear_search = 0x7f030019;
+        public static final int ssdk_country_search_icon = 0x7f03001a;
+        public static final int ssdk_country_sharesdk_icon = 0x7f03001b;
+        public static final int ssdk_exception_icon = 0x7f03001c;
+        public static final int ssdk_identify_icon = 0x7f03001d;
+        public static final int ssdk_input_bg_focus = 0x7f03001e;
+        public static final int ssdk_left_back = 0x7f03001f;
+        public static final int ssdk_load_dot_white = 0x7f030020;
+        public static final int ssdk_loading = 0x7f030021;
+        public static final int ssdk_logo = 0x7f030022;
+        public static final int ssdk_mobile_logo = 0x7f030023;
+        public static final int ssdk_title_div = 0x7f030064;
+        public static final int ssdk_weibo_common_shadow_top = 0x7f030065;
+        public static final int ssdk_weibo_empty_failed = 0x7f030066;
     }
     public static final class id {
         private id() {}
 
-        public static final int mobcommon_authorize_dialog_accept_tv = 0x7f040021;
-        public static final int mobcommon_authorize_dialog_content_tv = 0x7f040022;
-        public static final int mobcommon_authorize_dialog_reject_tv = 0x7f040023;
-        public static final int mobcommon_authorize_dialog_title_tv = 0x7f040024;
-        public static final int ssdk_sina_web_title_id = 0x7f04003e;
-        public static final int ssdk_sms_id_clCountry = 0x7f04003f;
-        public static final int ssdk_sms_id_et_put_identify = 0x7f040040;
-        public static final int ssdk_sms_id_ivSearch = 0x7f040041;
-        public static final int ssdk_sms_id_iv_clear = 0x7f040042;
-        public static final int ssdk_sms_id_llSearch = 0x7f040043;
-        public static final int ssdk_sms_id_llTitle = 0x7f040044;
-        public static final int ssdk_sms_id_ll_back = 0x7f040045;
-        public static final int ssdk_sms_id_tv_title = 0x7f040046;
+        public static final int mobcommon_authorize_dialog_accept_tv = 0x7f040029;
+        public static final int mobcommon_authorize_dialog_content_tv = 0x7f04002a;
+        public static final int mobcommon_authorize_dialog_reject_tv = 0x7f04002b;
+        public static final int mobcommon_authorize_dialog_title_tv = 0x7f04002c;
+        public static final int ssdk_sina_web_title_id = 0x7f040056;
+        public static final int ssdk_sms_id_clCountry = 0x7f040057;
+        public static final int ssdk_sms_id_et_put_identify = 0x7f040058;
+        public static final int ssdk_sms_id_ivSearch = 0x7f040059;
+        public static final int ssdk_sms_id_iv_clear = 0x7f04005a;
+        public static final int ssdk_sms_id_llSearch = 0x7f04005b;
+        public static final int ssdk_sms_id_llTitle = 0x7f04005c;
+        public static final int ssdk_sms_id_ll_back = 0x7f04005d;
+        public static final int ssdk_sms_id_tv_title = 0x7f04005e;
     }
     public static final class layout {
         private layout() {}
 
-        public static final int mob_authorize_dialog = 0x7f050005;
+        public static final int mob_authorize_dialog = 0x7f050006;
     }
     public static final class string {
         private string() {}
