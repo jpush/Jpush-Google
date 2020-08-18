@@ -1,4 +1,5 @@
 # Jpush-Google
 
 
-jpush SDK for google play version。
+Jpush & Jcore SDK example for google play version。
+
